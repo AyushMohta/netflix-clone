@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Netflix Clone in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed and deployed using React and firebase. The API used for fetching movies information is **TMDB api** **[https://api.themoviedb.org]**. You can check it out here - **[https://netflix-clone-e6cfb.web.app/]**
 
 ## Available Scripts
 
